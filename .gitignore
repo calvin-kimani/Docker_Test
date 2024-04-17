@@ -1,0 +1,25 @@
+# Dependency directories
+/react/node_modules
+/backend/vendor
+
+# Testing
+/coverage
+/phpunit.xml
+/tests
+
+# React frontend
+/react/build
+/react/.env
+/react/.env.local
+/react/.env.development.local
+/react/.env.test.local
+/react/.env.production.local
+
+# Laravel backend
+/backend/storage/logs/*.log
+/backend/storage/logs/*.log.*
+/backend/storage/framework/cache
+/backend/storage/framework/sessions
+/backend/storage/framework/testing
+/backend/storage/framework/views
+/backend/.env
